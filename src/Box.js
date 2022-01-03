@@ -31,7 +31,7 @@ const Box = () => {
             <p className='cita' style={{color:background}}> <span>"</span> {cita.quote}</p>
             <h5 style={{color:background}}>Autor: {cita.author}</h5>
             <div className='container'>
-            <button onClick={handleCita} className='randoomButton' style={{'background-color':background}} > > </button>
+            <button onClick={handleCita} className='randoomButton' style={{'background-color':background}} > + </button>
             </div>
             
         </div>
