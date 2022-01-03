@@ -1,5 +1,4 @@
 import React from 'react';
-import RandoomButton from './RandoomButton';
 import { useState } from 'react';
 import Citas from './citas.json';
 
